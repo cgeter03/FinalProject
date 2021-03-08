@@ -1,4 +1,11 @@
-# FinalProject
-#1FinalProjecct
+<!DOCTYPE html>
 
-Hi, I am Cori Geter. I am a rookie coder, working to become a professional full stack developer. I am currently learning Front End Development and this is a product of me working on my final project, after getting locked out of my other account! 
+<html> 
+  <head>
+    <title>Hello World</title> 
+  </head>
+ 
+  <body> 
+    <h1>Hello World</h1> 
+  </body>
+</html>
